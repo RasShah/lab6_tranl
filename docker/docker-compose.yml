@@ -1,0 +1,7 @@
+services:
+  analyzer:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ../examples:/app/examples:ro

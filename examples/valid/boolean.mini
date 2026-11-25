@@ -1,0 +1,7 @@
+bool yes = TRUE, no = FALSE;
+bool both = yes && !no;
+bool either = no || yes && FALSE;
+int a = 3, b = 4;
+bool comparison = a < b && (b >= 4);
+bool equal = yes == both;
+bool safe = FALSE && (1 / 0 == 0);

@@ -1,0 +1,4 @@
+int first, second = 12, third = second + 1;
+bool x, y, z = TRUE;
+bool copy = z;
+int min = -2147483648, max = 2147483647;

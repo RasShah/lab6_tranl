@@ -1,0 +1,2 @@
+bool x, z = TRUE;
+bool y = x;
